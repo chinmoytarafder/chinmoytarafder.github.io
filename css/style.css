@@ -486,7 +486,7 @@ body {
 
 .image-slider:hover .prev-btn,
 .image-slider:hover .next-btn {
-    opacity: 1; /* Show buttons on hover */
+    opacity: 1 !important; /* Show buttons on hover */
 }
 
 .prev-btn {
